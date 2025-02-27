@@ -1,7 +1,7 @@
 🛍️ E-Commerce Clothes
 
 🌍 Live Demo: https://mohammed-saeed111.github.io/E-Commerce_html_css_js_bootstrap/
-<be>
+<hr>
 ![E-Commerce Clothes](images/E-commerce.png)
 
 
