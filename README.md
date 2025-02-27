@@ -1,8 +1,7 @@
 🛍️ E-Commerce Clothes
 
 🌍 Live Demo: https://mohammed-saeed111.github.io/E-Commerce_html_css_js_bootstrap/
-![preview img](/E-commerce.png)
-<hr>
+
 
 🛒 E-Commerce Clothes is a responsive online shopping website for clothing built using HTML, CSS, JavaScript, and Bootstrap. The project provides a user-friendly interface with a modern design, making it easy for users to browse and purchase clothing items.
 
